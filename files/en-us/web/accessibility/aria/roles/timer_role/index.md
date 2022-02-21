@@ -8,6 +8,7 @@ tags:
   - Reference
   - Role Timer
   - timer
+spec-urls: https://w3c.github.io/aria/#timer
 ---
 
 The **`timer`** role indicates to assistive technologies that an element is a numerical counter listing the amount of elapsed time from a starting point or the remaining time until an end point.
@@ -87,9 +88,7 @@ One way around this would be to first clear the contents of the live region, and
 
 ## Specifications
 
-| Specification                                    | Status                   |
-| ------------------------------------------------ | ------------------------ |
-| {{SpecName("ARIA","#timer","timer")}} | {{Spec2('ARIA')}} |
+{{Specifications}}
 
 ## See also
 
