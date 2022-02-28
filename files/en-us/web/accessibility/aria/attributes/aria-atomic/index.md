@@ -6,6 +6,7 @@ tags:
   - ARIA
   - ARIA attribute
   - ARIA property
+  - Reference
   - aria-atomic
   - NeedsExample
 spec-urls: https://w3c.github.io/aria/#aria-atomic

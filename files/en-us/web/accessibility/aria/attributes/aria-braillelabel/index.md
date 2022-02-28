@@ -6,6 +6,7 @@ tags:
   - ARIA
   - ARIA attribute
   - ARIA property
+  - Reference
   - aria-braillelabel
 spec-urls: https://w3c.github.io/aria/#aria-braillelabel
 ---

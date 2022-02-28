@@ -6,6 +6,7 @@ tags:
   - ARIA
   - ARIA attribute
   - ARIA property
+  - Reference
   - aria-keyshortcuts
 spec-urls:
   - https://w3c.github.io/aria/#aria-keyshortcuts
